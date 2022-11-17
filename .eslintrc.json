@@ -17,7 +17,6 @@
     },
     "plugins": [
         "react",
-        "jsx-ally",
         "react-hooks"
     ],
     "rules": {
